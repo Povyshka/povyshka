@@ -3,7 +3,7 @@
 
 - 💾 My stack: **JavaScript, React, Redux-toolkit, CSS, HTML, Node.js, Express.js**
 
-- 👀 I'm really interested in **CSS, JavaScript animation; Three.js; WebGL**
+- 👀 I'm really interested in **CSS, JavaScript animation; <a href="https://threejs.org/">Three.js</a>; WebGL**
 
 - 👾 Fun fact **My cat's name is Pixel 😺**
 
