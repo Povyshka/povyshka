@@ -5,7 +5,7 @@
 
 - 💾 My stack: **JavaScript, React, Redux-toolkit, CSS, HTML, Node.js, Express.js**
 
-- 👀 I’m currently learning **canvas and JavaScript animation; <a href="https://threejs.org/">Three.js</a>; WebGL**
+- 👀 I’m currently learning **Canvas and JavaScript animation; <a href="https://threejs.org/">Three.js</a>; WebGL**
 
 - 👾 Fun fact **My cat's name is Pixel 😺**
 
