@@ -5,7 +5,7 @@
 
 - 💾 My stack: **JavaScript, React, Redux-toolkit, CSS, HTML, Node.js, Express.js**
 
-- 👾 Fun fact **My cat's name is Pixel 😺**
+- 👾 Fun fact: **My cat's name is Pixel 😺**
 
 
 [![codewars](https://www.codewars.com/users/Povyshka/badges/large)](https://www.codewars.com/users/Povyshka)   
