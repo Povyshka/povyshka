@@ -3,6 +3,6 @@
  </h1>
 <h3 align="center">Frontend developer</h3>
 
-- 💾 My stack: **JavaScript, TypeScript, React, Redux-toolkit, CSS, HTML, Node.js, Express.js, MongoDB, PostgreSQL**
+💾 My stack: **JavaScript, TypeScript, React, Redux-toolkit, CSS, HTML, Node.js, Express.js, MongoDB, PostgreSQL**
 
-- 👾 Fun fact: **My cat's name is Pixel 😺** 
+👾 Fun fact: **My cat's name is Pixel 😺** 
